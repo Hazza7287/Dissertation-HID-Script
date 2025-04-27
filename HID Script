@@ -1,0 +1,8 @@
+DELAY 500
+GUI r
+DELAY 200
+STRING notepad
+ENTER
+DELAY 300
+STRING This is a test for Harry Burners dissertation example
+ENTER
